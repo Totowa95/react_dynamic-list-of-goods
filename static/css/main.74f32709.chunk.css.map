@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,SAAU,CACX,OAGC,WAAY,CACb,MAGC,UAAW","file":"main.74f32709.chunk.css","sourcesContent":["// styles go here\n.red {\n  color: red;\n}\n\n.green {\n  color: green;\n}\n\n.blue {\n  color: blue;\n}\n"]}
